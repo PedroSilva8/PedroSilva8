@@ -5,6 +5,10 @@
 - [URL-Buster](https://github.com/PedroSilva8/UrlBuster) - ✔️
 - [MVRE](https://github.com/PedroSilva8/MVRE) -⏳
 
+## Packages
+
+- [Theme.js](https://github.com/PedroSilva8/theme.js/tree/main) - ✔️
+
 ### Meaning
 
 - 🌱 - Currently Working On
