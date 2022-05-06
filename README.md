@@ -1,13 +1,14 @@
 ## Projects
 
-- SafeTorrent - 🌱
 - [MUSS](https://github.com/PedroSilva8/MUSS-Web) - ⏳
 - [URL-Buster](https://github.com/PedroSilva8/UrlBuster) - ✔️
-- [MVRE](https://github.com/PedroSilva8/MVRE) -⏳
+- [MVRE](https://github.com/PedroSilva8/MVRE) -🌱
 
 ## Packages
 
 - [Theme.js](https://github.com/PedroSilva8/theme.js/tree/main) - ✔️
+- [React-Translation.js](https://github.com/PedroSilva8/react-translation.js) - ✔️
+- [Translation.js](https://github.com/PedroSilva8/translation.js) - ✔️
 
 ### Meaning
 
