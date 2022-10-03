@@ -4,6 +4,9 @@
 - [URL-Buster](https://github.com/PedroSilva8/UrlBuster) - ✔️
 - [MVRE](https://github.com/MVREngine/MVRE) -🌱
 
+## Libraries
+- [Parallel](https://github.com/PedroSilva8/parallel) - 🌱
+
 ## Packages
 
 - [Theme.js](https://github.com/PedroSilva8/theme.js/tree/main) - ✔️
