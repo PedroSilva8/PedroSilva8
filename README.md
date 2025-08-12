@@ -1,17 +1,10 @@
 ## Projects
 
-- [MUSS](https://github.com/PedroSilva8/MUSS-Web) - ⏳
-- [URL-Buster](https://github.com/PedroSilva8/UrlBuster) - ✔️
+- [URL-Buster](https://github.com/PedroSilva8/UrlBuster) - 🔒
 - [MVRE](https://github.com/MVREngine/MVRE) -🌱
 
 ## Libraries
-- [Parallel](https://github.com/PedroSilva8/parallel) - 🌱
-
-## Packages
-
-- [Theme.js](https://github.com/PedroSilva8/theme.js/tree/main) - ✔️
-- [React-Translation.js](https://github.com/PedroSilva8/react-translation.js) - ✔️
-- [Translation.js](https://github.com/PedroSilva8/translation.js) - ✔️
+- [Parallel](https://github.com/PedroSilva8/parallel) - 🔒
 
 ### Meaning
 
