@@ -1,7 +1,7 @@
 ## Projects
 
 - [URL-Buster](https://github.com/PedroSilva8/UrlBuster) - 🔒
-- [MVRE](https://github.com/MVREngine/MVRE) -🌱
+- [MARS](https://github.com/MARS-Engine/MARS) -🌱
 
 ## Libraries
 - [Parallel](https://github.com/PedroSilva8/parallel) - 🔒
